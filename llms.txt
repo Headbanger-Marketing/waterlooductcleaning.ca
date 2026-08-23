@@ -1,2 +1,25 @@
 # Waterloo Duct Cleaning
-HVAC services in Ontario.
+
+> Waterloo Duct Cleaning is a local HVAC company serving Waterloo, Waterloo Region, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 490-6741  |  Email: contact@waterlooductcleaning.ca  |  Website: https://waterlooductcleaning.ca
+
+## Key pages
+
+- [Home](https://waterlooductcleaning.ca/): Waterloo Duct Cleaning homepage with service overview and FAQ
+- [About](https://waterlooductcleaning.ca/about/): About the company and service area
+- [Contact](https://waterlooductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://waterlooductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Waterloo, Ontario
+- [Dryer Vent Cleaning](https://waterlooductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Waterloo, Ontario
+- [Furnace & AC Cleaning](https://waterlooductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Waterloo, Ontario
+- [HRV & Ventilation Cleaning](https://waterlooductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Waterloo, Ontario
+- [Duct Sanitizing & Deodorizing](https://waterlooductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Waterloo, Ontario
+- [Duct Sealing & Repair](https://waterlooductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Waterloo, Ontario
+- [Commercial Duct Cleaning](https://waterlooductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Waterloo, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Waterloo are answered on the homepage.
